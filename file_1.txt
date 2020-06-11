@@ -2,3 +2,6 @@ Adding a line here
 This is my first GIT 
 I am happy
 I like it.
+I'm glad you like Git
+I hope you've enjoyed the class
+Have a nice day!
